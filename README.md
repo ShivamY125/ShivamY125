@@ -26,7 +26,8 @@ class Shivam {
   }
 }
 ```
----[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,py,linux,ubuntu,next,postgres,prisma,postman,aws,docker,kubernetes,githubactions,jenkins,terraform,prometheus,grafana)](https://skillicons.dev)
+### My Skills
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,py,linux,ubuntu,next,postgres,prisma,postman,aws,docker,kubernetes,githubactions,jenkins,terraform,prometheus,grafana)](https://skillicons.dev)
 
 
 
