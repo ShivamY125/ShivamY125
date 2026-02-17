@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Yadav</h1>
-<h3 align="center">Backend & DevOps Engineer | Cloud | Automation | Scalable Systems</h3>
+<h3 align="center">Backend & DevOps Engineer | 1x AWS Certified | Automation | Scalable Systems</h3>
 
 ---
 
@@ -28,6 +28,10 @@ class Shivam {
 ```
 ### My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,py,linux,ubuntu,next,postgres,prisma,postman,aws,docker,kubernetes,githubactions,jenkins,terraform,prometheus,grafana)](https://skillicons.dev)
+
+---
+hello
+---
 
 
 
