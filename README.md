@@ -8,7 +8,7 @@
 - ☁️ AWS, Docker, CI/CD, Redis enthusiast
 - 🏢 2+ year industry experience (Nodejs, Python, AWS, Github, CI/CD, ETL, Linux)
 - 🔁 Love automating repetitive things
-- 🎯 Targeting Backend / DevOps / Platform roles
+- 🎯 Targeting Backend / Cloud / DevOps / Platform roles
 
 ---
 
