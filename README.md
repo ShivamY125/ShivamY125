@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shivam Yadav</h1>
-<h3 align="center">Backend & DevOps Engineer | 1x AWS Certified | Automation | Scalable Systems</h3>
+<h3 align="center">Backend & Cloud Engineer | 1x AWS Certified | DevOps | Python |Scalable Systems</h3>
 
 ---
 
 ### About Me
-- 🚀 Backend-focused Full Stack Developer (MERN)
-- ☁️ AWS, Docker, CI/CD, Redis enthusiast
-- 🏢 2+ year industry experience (Nodejs, Python, AWS, Github, CI/CD, ETL, Linux)
-- 🔁 Love automating repetitive things
-- 🎯 Targeting Backend / Cloud / DevOps / Platform roles
+- 🚀 Backend developer working with Cloud Enviornment (AWS).
+- ☁️ AWS, Docker, CI/CD, GitOps, CloudOps.
+- 🏢 2+ year industry experience (Nodejs, Python, AWS, Github, CI/CD, ETL, Linux).
+- 🎯 Targeting Backend / Cloud / DevOps / Platform roles.
 
 ---
 
@@ -17,7 +16,7 @@
 class Shivam {
   constructor() {
     this.mindset = "Learn deeply, build reliably";
-    this.skills = ["Backend", "DevOps", "Cloud"];
+    this.skills = ["Backend", "Cloud", "Devops"];
     this.goal = "Design systems that scale and survive failures";
   }
 
